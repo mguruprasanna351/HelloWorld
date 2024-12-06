@@ -1,2 +1,2 @@
-echo "Hello World1" > hello.txt
+echo "Hello World1g" > hello.txt
 echo "date" > date.txt
